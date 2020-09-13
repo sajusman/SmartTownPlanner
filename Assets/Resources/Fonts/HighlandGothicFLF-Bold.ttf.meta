@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e9452db6ef4b6204eb1c854bbde9167e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HighlandGothicFLF
+  fontNames:
+  - HighlandGothicFLF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9b25b46fdf9f61047b8e45278efe7e46, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
